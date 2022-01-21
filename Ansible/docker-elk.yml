@@ -1,0 +1,15 @@
+---
+-  name: config elk VM with docker
+   hosts: elkserver
+   become: true
+   tasks:
+     - name: docker.io
+       apt:
+         update_cache: yes
+         name: docker.io
+         state: present
+     - name: Enable docker service
+       systemd:
+         name: docker
+         enabled: yes
+         
