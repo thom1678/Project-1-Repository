@@ -6,9 +6,6 @@ My repository I have created for project 1
 Exploring-Kibana-Questions: 
 [Kibana_questions.md](https://github.com/thom1678/Project-1-Repository/files/7908984/Kibana_questions.md)
 
-Network Diagram: 
-![network_diagram](https://user-images.githubusercontent.com/91933325/150435644-18f02647-092a-4acd-8277-a4195eb5f462.PNG)
-
 Screenshot of running the stress command on web-1: 
 ![stress_web1](https://user-images.githubusercontent.com/91933325/150436655-993c9ea7-c996-4ed2-9c42-915e08fb866c.PNG)
 
