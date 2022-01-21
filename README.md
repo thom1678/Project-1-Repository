@@ -23,3 +23,5 @@ Screenshot of my filebeat playbook:
 
 Screenshot of my metricbeat playbook: 
 ![metricbeat_playbook](https://user-images.githubusercontent.com/91933325/150436548-fc2ff722-933c-4587-99b4-33efbe372079.PNG)
+
+![network_diagram](https://user-images.githubusercontent.com/91933325/150435644-18f02647-092a-4acd-8277-a4195eb5f462.PNG)
